@@ -119,17 +119,22 @@ with the document task, the expected output, and a small public or synthetic
 example. Include how you would verify that a retrieved passage and its source
 reference are useful for the task.
 
-Keep confidential documents and personal data out of public issues. Contribution
-terms for code and documentation will be documented before external patches
-are accepted, to support the planned dual-licensing model.
+Keep confidential documents and personal data out of public issues. Read
+[CONTRIBUTING.md](CONTRIBUTING.md) before proposing code or documentation patches.
+External patches will not be merged until contribution terms and their
+acceptance process are ready for the planned dual-licensing model.
 
 ## License
 
-This repository currently uses the [GNU Affero General Public License v3.0](LICENSE).
+This repository currently uses the [GNU Affero General Public License v3.0](LICENSE)
+only (`AGPL-3.0-only`), except where separate applicable notices identify a
+different license.
 AGPL permits commercial use subject to its terms.
 
 An alternative commercial license is planned for eligible project-owned code.
 Commercial terms and the scope of any separately licensed Enterprise features
-are being developed; they are not granted by this README.
+are being developed; they are not granted by this README. See
+[LICENSING.md](LICENSING.md) for the current scope and
+[dual-licensing readiness](docs/licensing-readiness.md) for the remaining work.
 
 Product status last updated: **2026-10-14**.
